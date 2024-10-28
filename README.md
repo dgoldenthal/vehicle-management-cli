@@ -123,7 +123,7 @@ npm start
 - NPM configuration in `package.json`
 
 ## Demo Video
-[Link to walkthrough video demonstrating functionality]
+[https://youtu.be/Y4jv2Z-AF7Q]
 
 ## Contributing
 1. Fork the repository
