@@ -98,8 +98,6 @@ vehicle-management-cli/
   - Inheritance (Vehicle base class)
   - Interfaces (Driveable, AbleToTow)
   - Encapsulation
-- Type safety enforced throughout
-- Modular design for easy expansion
 
 ## Development
 To contribute or modify:
@@ -133,9 +131,6 @@ npm start
 3. Commit changes
 4. Push to the branch
 5. Create a Pull Request
-
-## Acknowledgments
-- Built as part of [Course/Project Name]
 
 ## Notes
 - The application uses the terminal/command prompt for all interactions
